@@ -37,6 +37,13 @@ Script takes all stocks seen in `SP500` at least once and requests **daily** `OH
 
 - `OBV (On-Balance Volume)` 
   A volume-based indicator that uses cumulative volume flow to predict changes in stock price. <br>
+
+- `Momentum`
+  Measures the rate of change of a security's price over a specified period
+  - Positive value → Uptrend / bullish momentum  
+  - Negative value → Downtrend / bearish momentum  
+  - Sharp increases or decreases may signal strong price moves or reversals
+  
 <br>
 ---
 
