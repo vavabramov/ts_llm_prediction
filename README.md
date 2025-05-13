@@ -1,6 +1,11 @@
 # ts_llm_prediction
 Masters Thesis Paper research project aiming to build algorithmic trading models
 
+## Order of files to run
+1) [data_collection.ipynb](https://github.com/vavabramov/ts_llm_prediction/blob/main/data_collection.ipynb)
+2) [data_preparation.ipynb](https://github.com/vavabramov/ts_llm_prediction/blob/main/data_preparation.ipynb)
+3) [datasets_builder.ipynb](https://github.com/vavabramov/ts_llm_prediction/blob/main/datasets_builder.ipynb)
+
 # Stocks Data Collection (SP500)
 Script takes all stocks seen in `SP500` at least once and requests **daily** `OHLCV` data from YahooFinance (old stocks may not exist in YF database)
 <br>
@@ -43,7 +48,7 @@ Script takes all stocks seen in `SP500` at least once and requests **daily** `OH
   - Positive value → Uptrend / bullish momentum  
   - Negative value → Downtrend / bearish momentum  
   - Sharp increases or decreases may signal strong price moves or reversals
-  
+
 <br>
 ---
 
