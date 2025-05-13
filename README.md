@@ -10,7 +10,7 @@ Masters Thesis Paper research project aiming to build algorithmic trading models
 Script takes all stocks seen in `SP500` at least once and requests **daily** `OHLCV` data from YahooFinance (old stocks may not exist in YF database)
 <br>
 
-# Collection of aditional Financial & MacroEconomic Indicators 
+# Collection of additional Financial & MacroEconomic Indicators 
 - `VIX` - Volatility Indicator ([YFinance](https://finance.yahoo.com/quote/%5EVIX/))
 - `GOLD` - Gold price ([YFinance](https://finance.yahoo.com/quote/GC=F/))
 - `DXY` - US Dollar Index - measure of the value of the U.S. dollar relative to a basket of major foreign currencies - ([YFinance](https://finance.yahoo.com/quote/DX-Y.NYB/))
