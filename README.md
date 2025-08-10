@@ -5,6 +5,7 @@ Masters Thesis Paper research project aiming to build algorithmic trading models
 1) [data_collection.ipynb](https://github.com/vavabramov/ts_llm_prediction/blob/main/data_collection.ipynb)
 2) [data_preparation.ipynb](https://github.com/vavabramov/ts_llm_prediction/blob/main/data_preparation.ipynb)
 3) [datasets_builder.ipynb](https://github.com/vavabramov/ts_llm_prediction/blob/main/datasets_builder.ipynb)
+4) [ChronosBolt_SPY_only.ipynb](https://github.com/vavabramov/ts_llm_prediction/blob/main/ChronosBolt_SPY_only.ipynb)
 
 # Stocks Data Collection (SP500)
 Script takes all stocks seen in `SP500` at least once and requests **daily** `OHLCV` data from YahooFinance (old stocks may not exist in YF database)
